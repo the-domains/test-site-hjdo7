@@ -1,0 +1,14 @@
+layout_spectrum: 0.8797090081498027
+typography_spectrum: 0.13581698015332222
+color:
+  brandStrength: 0.7741243443451822
+  lightness: 0.49570086458697915
+  saturation: 0.6302654696628451
+  rhythmicContrast: 0.8013773064594716
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+name: Test Site
